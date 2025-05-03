@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prswa
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning FULL Stack
+- 🌱 I’m currently learning Full Stack Development
 
 
 <!---
